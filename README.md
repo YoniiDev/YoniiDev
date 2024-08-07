@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Yonathan</h1>
-<h3 align="center">Front End Developer | Mobile application developer | Administration Engineer</h3>
+<h1 align="center">Hi 👋, I'm Yonathan Bravo</h1>
+<h2 align="center">Front-End Developer | Mobile application developer | Administration Engineer</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yoniidev&label=Profile%20views&color=0e75b6&style=flat" alt="yoniidev" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yoniidev&label=Profile%20views&color=0e75b6&style=flat" alt="yoniidev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yoniidev" alt="yoniidev" /></a> </p>
 
